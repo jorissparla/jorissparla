@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+ 🔭 I’m currently mainly working with React, GraphQL, Tailwind
+ 
+ 🌱 I’m currently following a course on machine learning and A.I. With Python
+ 
 <!--
 **jorissparla/jorissparla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
